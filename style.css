@@ -1,4 +1,44 @@
-body {background-color:tan;}
-h1{color:green;}
+body {
+	background-color: black;
+	font-family: arial;
+	color: white;
+}
+
+h1 {
+	color: grey;
+	font-family: verdana;
+}
+
+.maindiv {
+    background-color:white;
+    color:black;
+    width:500px;
+    padding:20px;
+    border-radius:25px;
+    margin: auto;
+}
+
+.highlighted {
+    background-color: yellow;
+}
+
+.centerdiv {
+	margin-left: 80px;
+}
+
+.inputwidth {
+    display: inline-block;
+    width: 110px;
+    margin: 8px;
+}
 
 
+button {
+	margin-top: 5px;
+	margin-bottom: 10px;
+    padding: 5px;
+}
+
+footer {
+    margin-top: 20px;
+}
